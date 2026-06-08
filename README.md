@@ -125,11 +125,7 @@ docker run -p 8501:8501 cinematch
 
 ---
 
-## 📄 Resume Bullet Points
 
-See `RESUME_BULLETS.md` for four detailed, metrics-driven project bullets ready to paste into a CV or LinkedIn profile.
-
----
 
 ## 🛠️ Tech Stack
 
